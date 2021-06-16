@@ -75,7 +75,7 @@ I am a 3nd-year Graduate Student at The Bauman Moscow State Technical University
 
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DronPascal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=DronPascal&bg_color=1F222E&color=F8D866&line=F86666&point=FFFFFF&hide_border=true"/></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DronPascal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=DronPascal&bg_color=1F222E&color=F8D866&line=F86666&point=FFFFFF&hide_border=true" height="296px"/></a>
 </br>
 </details>
 <a href="#"><img alt="GitHub Views" src="https://komarev.com/ghpvc/?username=DronPascal&color=yellow"/></a>
