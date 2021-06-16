@@ -40,7 +40,7 @@ I am a 3nd-year Graduate Student at The Bauman Moscow State Technical University
 
 ### 🧰 Frameworks and libraries
 <p>
-<a href="javascript:void(0)"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
+<a href="void(0)"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
 <a href="javascript:void(0)"><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-7588db?logo=intellijidea&logoColor=white"></a>
 <a href="javascript:void(0)"><img alt="Material Design" src="https://img.shields.io/badge/Material%20Design-%230081CB.svg?logo=material-design&logoColor=white"></a>
 <a href="javascript:void(0)"><img alt="QT" src="https://img.shields.io/badge/-QT-3fc74f?logo=qt&logoColor=white"></a>
