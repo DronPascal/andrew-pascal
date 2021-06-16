@@ -40,27 +40,27 @@ I am a 3nd-year Graduate Student at The Bauman Moscow State Technical University
 
 ### 🧰 Frameworks and libraries
 <p>
-<a><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
-<a><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-7588db?logo=intellijidea&logoColor=white"></a>
-<a><img alt="Material Design" src="https://img.shields.io/badge/Material%20Design-%230081CB.svg?logo=material-design&logoColor=white"></a>
-<a><img alt="QT" src="https://img.shields.io/badge/-QT-3fc74f?logo=qt&logoColor=white"></a>
+<a href="javascript:void(0)"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
+<a href="javascript:void(0)"><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-7588db?logo=intellijidea&logoColor=white"></a>
+<a href="javascript:void(0)"><img alt="Material Design" src="https://img.shields.io/badge/Material%20Design-%230081CB.svg?logo=material-design&logoColor=white"></a>
+<a href="javascript:void(0)"><img alt="QT" src="https://img.shields.io/badge/-QT-3fc74f?logo=qt&logoColor=white"></a>
 </p>
 
 ### 🗄️ Databases
 <p>
-<a><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
-<a><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
-<a><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
+<a href="javascript:void(0)"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
+<a href="javascript:void(0)"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
+<a href="javascript:void(0)"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
 </p>
 
 ### 💻 Software and tools
 <p>
-<a><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
-<a><img alt="Git" src="https://img.shields.io/badge/Git%20-F05033.svg?logo=git&logoColor=white"></a>
-<a><img alt="GitKraken" src="https://img.shields.io/badge/GitKraken%20-1c8f86.svg?logo=gitkraken&logoColor=white"></a>
-<a><img alt="Figma" src="https://img.shields.io/badge/Figma%20-524ef6.svg?logo=figma&logoColor=white"></a>
-<a><img alt="Adobe" src="https://img.shields.io/badge/Adobe%20-FF0000.svg?logo=adobe&logoColor=white"></a>
-<a><img alt="Visual Studio" src="https://img.shields.io/badge/-Visual Studio-8252b8?logo=visualstudio&logoColor=white"></a>
+<a href="javascript:void(0)"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
+<a href="javascript:void(0)"><img alt="Git" src="https://img.shields.io/badge/Git%20-F05033.svg?logo=git&logoColor=white"></a>
+<a href="javascript:void(0)"><img alt="GitKraken" src="https://img.shields.io/badge/GitKraken%20-1c8f86.svg?logo=gitkraken&logoColor=white"></a>
+<a href="javascript:void(0)"><img alt="Figma" src="https://img.shields.io/badge/Figma%20-524ef6.svg?logo=figma&logoColor=white"></a>
+<a href="javascript:void(0)"><img alt="Adobe" src="https://img.shields.io/badge/Adobe%20-FF0000.svg?logo=adobe&logoColor=white"></a>
+<a href="javascript:void(0)"><img alt="Visual Studio" src="https://img.shields.io/badge/-Visual Studio-8252b8?logo=visualstudio&logoColor=white"></a>
 </p>
 
 ## 📊 Github stats
