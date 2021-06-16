@@ -13,6 +13,7 @@ Hi there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
 ## 🧐 About Me: 
 I am a 3nd-year Graduate Student at The Bauman Moscow State Technical University, pursuing a Bachelors degree in Mathematics and Computer Science👨‍💻, who is passionate about Android developing📱.
 <br>
+
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DronPascal's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=DronPascal&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px" align="right"/></a>
 
 - 🔭 &nbsp; I’m currently working on pet-project
