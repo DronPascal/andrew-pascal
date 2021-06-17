@@ -35,7 +35,6 @@ I am a 3nd-year Graduate Student at The Bauman Moscow State Technical University
 <a href="https://github.com/search?q=user%3ADronPascal+is%3Arepo+language%3Acpp"><img alt="C++" src="https://img.shields.io/badge/C++%20-00599C.svg?logo=c%2B%2B&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3ADronPascal+is%3Arepo+language%3Akotlin">
 <a href="https://github.com/search?q=user%3ADronPascal+is%3Arepo+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
-<a href="https://github.com/search?q=user%3ADronPascal+is%3Arepo+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
 </p>
 
 ### 🧰 Frameworks and libraries
@@ -61,6 +60,7 @@ I am a 3nd-year Graduate Student at The Bauman Moscow State Technical University
 <a href="#!"><img alt="GitKraken" src="https://img.shields.io/badge/GitKraken%20-1c8f86.svg?logo=gitkraken&logoColor=white"></a>
 <a href="#!"><img alt="Adobe" src="https://img.shields.io/badge/Adobe%20-FF0000.svg?logo=adobe&logoColor=white"></a>
 <a href="#!"><img alt="Visual Studio" src="https://img.shields.io/badge/-Visual Studio-8252b8?logo=visualstudio&logoColor=white"></a>
+<a href="#!"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-111f1c.svg?logo=markdown&logoColor=white"></a>
 </p>
 
 ## 📊 Github stats
