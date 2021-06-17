@@ -1,5 +1,6 @@
 
 
+
 <h3 align="center">
 Hi there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, my name is Andrew ​
 </h3>
@@ -31,8 +32,8 @@ I am a 3nd-year Graduate Student at The Bauman Moscow State Technical University
 <p>
 <a href="https://github.com/search?q=user%3ADronPascal+is%3Arepo+language%3Akotlin"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0096d6.svg?logo=Kotlin&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3ADronPascal+is%3Arepo+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/Java-e76e12.svg?logo=java&logoColor=white"></a>
-<a href="https://github.com/search?q=user%3ADronPascal+is%3Arepo+language%3Ac"><img alt="C" src="https://img.shields.io/badge/C%20-2370ED.svg?logo=c&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3ADronPascal+is%3Arepo+language%3Acpp"><img alt="C++" src="https://img.shields.io/badge/C++%20-00599C.svg?logo=c%2B%2B&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3ADronPascal+is%3Arepo+language%3Ac"><img alt="C" src="https://img.shields.io/badge/C%20-2370ED.svg?logo=c&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3ADronPascal+is%3Arepo+language%3Akotlin">
 <a href="https://github.com/search?q=user%3ADronPascal+is%3Arepo+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
 </p>
@@ -40,7 +41,6 @@ I am a 3nd-year Graduate Student at The Bauman Moscow State Technical University
 ### 🧰 Frameworks and libraries
 <p>
 <a href="#!"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
-<a href="#!"><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-7588db?logo=intellijidea&logoColor=white"></a>
 <a href="#!"><img alt="Material Design" src="https://img.shields.io/badge/Material%20Design-%230081CB.svg?logo=material-design&logoColor=white"></a>
 <a href="#!"><img alt="QT" src="https://img.shields.io/badge/-QT-3fc74f?logo=qt&logoColor=white"></a>
 </p>
@@ -58,6 +58,8 @@ I am a 3nd-year Graduate Student at The Bauman Moscow State Technical University
 <a href="#!"><img alt="Figma" src="https://img.shields.io/badge/Figma%20-524ef6.svg?logo=figma&logoColor=white"></a>
 <a href="#!"><img alt="Git" src="https://img.shields.io/badge/Git%20-F05033.svg?logo=git&logoColor=white"></a>
 <a href="#!"><img alt="GitKraken" src="https://img.shields.io/badge/GitKraken%20-1c8f86.svg?logo=gitkraken&logoColor=white"></a>
+<a href="#!"><img alt="Trello" src="https://img.shields.io/badge/Trello-398aba.svg?logo=trello&logoColor=white"></a>
+<a href="#!"><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-7588db?logo=intellijidea&logoColor=white"></a>
 <a href="#!"><img alt="Adobe" src="https://img.shields.io/badge/Adobe%20-FF0000.svg?logo=adobe&logoColor=white"></a>
 <a href="#!"><img alt="Visual Studio" src="https://img.shields.io/badge/-Visual Studio-8252b8?logo=visualstudio&logoColor=white"></a>
 <a href="#!"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-111f1c.svg?logo=markdown&logoColor=white"></a>
