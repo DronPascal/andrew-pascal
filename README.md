@@ -1,6 +1,3 @@
-
-
-
 <h3 align="center">
 Hi there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, my name is Andrew ​
 </h3>
@@ -14,7 +11,7 @@ Hi there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
 
 ## 🧐 About Me: 
 I am a 3nd-year Graduate Student at The Bauman Moscow State Technical University, pursuing a Bachelors degree in Mathematics and Computer Science👨‍💻, who is passionate about Android apps developing📱.
-
+######
 <br>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DronPascal's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=DronPascal&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px" align="right"/></a>
 
@@ -61,6 +58,7 @@ I am a 3nd-year Graduate Student at The Bauman Moscow State Technical University
 <a href="#!"><img alt="GitKraken" src="https://img.shields.io/badge/GitKraken%20-179287.svg?logo=gitkraken&logoColor=white"></a>
 <a href="#!"><img alt="Trello" src="https://img.shields.io/badge/Trello-0052CC.svg?logo=trello&logoColor=white"></a>
 <a href="#!"><img alt="Adobe" src="https://img.shields.io/badge/Adobe%20-FF0000.svg?logo=adobe&logoColor=white"></a>
+<a href="#!"><img alt="Play Console" src="https://img.shields.io/badge/Play%20Console-414141.svg?logo=google-play&logoColor=white"></a>
 <a href="#!"><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-5566ee?logo=intellijidea&logoColor=white"></a>
 <a href="#!"><img alt="Visual Studio" src="https://img.shields.io/badge/-Visual Studio-5C2D91?logo=visualstudio&logoColor=white"></a>
 <a href="#!"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-111f1c.svg?logo=markdown&logoColor=white"></a>
