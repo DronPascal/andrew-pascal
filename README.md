@@ -11,7 +11,6 @@ Hi there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
 
 ## 🧐 About Me: 
 I am a 3nd-year Graduate Student at The Bauman Moscow State Technical University, pursuing a Bachelors degree in Mathematics and Computer Science👨‍💻, who is passionate about Android apps developing📱.
-######
 <br>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DronPascal's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=DronPascal&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="176px" align="right"/></a>
 
@@ -20,7 +19,7 @@ I am a 3nd-year Graduate Student at The Bauman Moscow State Technical University
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/DronPascal?tab=repositories)
 - 👾 &nbsp; Fun fact: The future does not exist
 <!-- - 📝 &nbsp; Checkout my [resume]() -->
-</br>
+<br>
 
 <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 ## 🛠️ My favorite tools
@@ -65,7 +64,6 @@ I am a 3nd-year Graduate Student at The Bauman Moscow State Technical University
 <a href="#!"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-111f1c.svg?logo=markdown&logoColor=white"></a>
 </p>
 
-
 ## 📊 Github stats
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
@@ -85,10 +83,10 @@ I am a 3nd-year Graduate Student at The Bauman Moscow State Technical University
 </br>
 </details>
 
-</br>
-</details>
+<p>
 <a href="#"><img alt="GitHub Views" src="https://komarev.com/ghpvc/?username=DronPascal&color=yellow"/></a>
 <a href="#"><img alt="GitHub Followers" title="Follow me on Github" src="https://img.shields.io/github/followers/DronPascal?color=blueviolet&logo=github&label=Followers"/></a>
+</p>
 
-##
+<br>
 <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/DronPascal/DronPascal?label=last%20update">
