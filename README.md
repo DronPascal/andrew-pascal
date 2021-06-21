@@ -21,7 +21,6 @@ I am a 3nd-year Graduate Student at The Bauman Moscow State Technical University
 - 👾 &nbsp; Fun fact: The future does not exist
 <!-- - 📝 &nbsp; Checkout my [resume]() -->
 <br>
-
 <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 ## 🛠️ My favorite tools
 ### 👨‍💻 Programming languages
@@ -70,16 +69,17 @@ I am a 3nd-year Graduate Student at The Bauman Moscow State Technical University
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <details> 
 <summary>Some of my GitHub Public Stats 💻</summary>
-<br>
+<p>
 <!-- https://git.io/streak-stats -->
 <a href="https://git.io/streak-stats"><img alt="" src="https://github-readme-streak-stats.herokuapp.com?user=DronPascal&theme=kacho_ga&hide_border=true&background=1F222E&fire=F8D866&sideLabels=F8D866&currStreakLabel=F8D866&ring=FF6969BB&currStreakNum=FF6969BB&sideNums=FF6969BB" height="192px"/></a> 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DronPascal's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=DronPascal&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F86666&icon_color=F8D866" height="192px"/></a>
-<br>
+
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-<br><!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+</p>
+<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DronPascal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=DronPascal&bg_color=1F222E&color=F8D866&line=F86666&point=FFFFFF&hide_border=true" height="294px"/></a>
-<br><!-- https://github.com/ryo-ma/github-profile-trophy -->
+<!-- https://github.com/ryo-ma/github-profile-trophy -->
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img alt="GitHub Achievements" title="Github Achievements" src="https://github-profile-trophy.vercel.app/?username=DronPascal&theme=onedark&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&column=7" align="center"/></a>
 </details>
 
