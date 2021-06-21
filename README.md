@@ -1,6 +1,5 @@
-
 <h3 align="center">
-Hi there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, my name is Andrew ​
+Hi there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32">, my name is Andrew ​
 </h3>
 
 <p align="center">
@@ -66,6 +65,7 @@ I am a 3nd-year Graduate Student at The Bauman Moscow State Technical University
 <a href="#!"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-111f1c.svg?logo=markdown&logoColor=white"></a>
 </p>
 
+
 ## 📊 Github stats
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
@@ -80,11 +80,15 @@ I am a 3nd-year Graduate Student at The Bauman Moscow State Technical University
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DronPascal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=DronPascal&bg_color=1F222E&color=F8D866&line=F86666&point=FFFFFF&hide_border=true" height="294px"/></a>
+<a href="#"><img alt="GitHub Achievements" title="Github Achievements" src="https://github-profile-trophy.vercel.app/?username=DronPascal&theme=onedark&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&column=7" align="center"/></a>
+</br>
+</details>
+
+
 </br>
 </details>
 <a href="#"><img alt="GitHub Views" src="https://komarev.com/ghpvc/?username=DronPascal&color=yellow"/></a>
 <a href="#"><img alt="GitHub Followers" title="Follow me on Github" src="https://img.shields.io/github/followers/DronPascal?color=blueviolet&logo=github&label=Followers"/></a>
-</p>
 
 ##
 <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/DronPascal/DronPascal?label=last%20update">
