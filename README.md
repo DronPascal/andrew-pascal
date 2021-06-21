@@ -81,7 +81,6 @@ I am a 3nd-year Graduate Student at The Bauman Moscow State Technical University
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DronPascal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=DronPascal&bg_color=1F222E&color=F8D866&line=F86666&point=FFFFFF&hide_border=true" height="294px"/></a>
 <!-- https://github.com/ryo-ma/github-profile-trophy -->
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img alt="GitHub Achievements" title="Github Achievements" src="https://github-profile-trophy.vercel.app/?username=DronPascal&theme=onedark&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&column=7" align="center"/></a>
-</br>
 </details>
 
 <p>
