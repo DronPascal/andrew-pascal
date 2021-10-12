@@ -102,6 +102,13 @@ I am a 4th-year Graduate Student at The Bauman Moscow State Technical University
 </p>
 </details>
 
+<details> 
+<summary>My Sertificates</summary>
+<p>
+![Сертификат №311-44646](https://user-images.githubusercontent.com/57148020/137030313-e7387255-31f3-4b7a-9c8c-92991d390b20.jpg)
+</p>
+</details>
+
 <p>
 <a href="#"><img alt="GitHub Views" src="https://komarev.com/ghpvc/?username=DronPascal&color=yellow"/></a>
 <a href="#"><img alt="GitHub Followers" title="Follow me on Github" src="https://img.shields.io/github/followers/DronPascal?color=blueviolet&logo=github&label=Followers"/></a>
