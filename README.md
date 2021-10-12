@@ -1,3 +1,4 @@
+
 <h3 align="center">
 Hi there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, my name is Andrew ​
 </h3>
@@ -41,6 +42,24 @@ I am a 4th-year Graduate Student at The Bauman Moscow State Technical University
 <a href="#!"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
 <a href="#!"><img alt="Material Design" src="https://img.shields.io/badge/Material%20Design-%230081CB.svg?logo=material-design&logoColor=white"></a>
 <a href="#!"><img alt="QT" src="https://img.shields.io/badge/-QT-3fc74f?logo=qt&logoColor=white"></a>
+</p>
+<p>
+<a href="#!"><img alt="Dagger 2" src="https://img.shields.io/badge/-Dagger 2-d157d6"></a>
+<a href="#!"><img alt="Hilt" src="https://img.shields.io/badge/-Hilt-d157d6"></a>
+<a href="#!"><img alt="RxJava 2" src="https://img.shields.io/badge/-RxJava 2-5955ec"></a>
+<a href="#!"><img alt="LiveData" src="https://img.shields.io/badge/-LiveData-5955ec"></a>
+<a href="#!"><img alt="Kotlin Flow" src="https://img.shields.io/badge/-Kotlin Flow-9d56f7"></a>
+<a href="#!"><img alt="Kotlin Coroutines" src="https://img.shields.io/badge/-Kotlin Coroutines-9d56f7"></a>
+<a href="#!"><img alt="Jetpack Navigation Component" src="https://img.shields.io/badge/-Jetpack NavComponent-e76e12"></a>
+<a href="#!"><img alt="Cicerone" src="https://img.shields.io/badge/-Cicerone-e76e12"></a>
+<a href="#!"><img alt="Room" src="https://img.shields.io/badge/-Room-259389"></a>
+<a href="#!"><img alt="Glide" src="https://img.shields.io/badge/-Glide-259389"></a>
+<a href="#!"><img alt="Coil" src="https://img.shields.io/badge/-Coil-259389"></a>
+<a href="#!"><img alt="Retrofit" src="https://img.shields.io/badge/-Retrofit-115bc8"></a>
+<a href="#!"><img alt="Paging 3" src="https://img.shields.io/badge/-Paging 3-53d0db"></a>
+<a href="#!"><img alt="Moxy" src="https://img.shields.io/badge/-Moxy-eb7891"></a>
+<a href="#!"><img alt="ViewModel" src="https://img.shields.io/badge/-ViewModel-eb7891">
+<a href="#!"><img alt="Jetpack Compose" src="https://img.shields.io/badge/-Jetpack Compose-3747a6"></a>
 </p>
 
 ### 🗄️ Databases
