@@ -46,10 +46,10 @@ I am a 4th-year Graduate Student at The Bauman Moscow State Technical University
 <p>
 <a href="#!"><img alt="Dagger 2" src="https://img.shields.io/badge/-Dagger 2-d157d6"></a>
 <a href="#!"><img alt="Hilt" src="https://img.shields.io/badge/-Hilt-d157d6"></a>
-<a href="#!"><img alt="RxJava 3" src="https://img.shields.io/badge/-RxJava 2-5955ec"></a>
-<a href="#!"><img alt="LiveData" src="https://img.shields.io/badge/-LiveData-5955ec"></a>
-<a href="#!"><img alt="Kotlin Flow" src="https://img.shields.io/badge/-Kotlin Flow-9d56f7"></a>
-<a href="#!"><img alt="Kotlin Coroutines" src="https://img.shields.io/badge/-Kotlin Coroutines-9d56f7"></a>
+<a href="#!"><img alt="Kotlin Flow" src="https://img.shields.io/badge/-Kotlin Flow-5955ec"></a>
+<a href="#!"><img alt="Kotlin Coroutines" src="https://img.shields.io/badge/-Kotlin Coroutines-5955ec"></a>
+<a href="#!"><img alt="RxJava 3" src="https://img.shields.io/badge/-RxJava 2-9d56f7"></a>
+<a href="#!"><img alt="LiveData" src="https://img.shields.io/badge/-LiveData-9d56f7"></a>
 <a href="#!"><img alt="Jetpack Navigation Component" src="https://img.shields.io/badge/-Jetpack NavComponent-e76e12"></a>
 <a href="#!"><img alt="Cicerone" src="https://img.shields.io/badge/-Cicerone-e76e12"></a>
 <a href="#!"><img alt="Room" src="https://img.shields.io/badge/-Room-259389"></a>
