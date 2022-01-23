@@ -33,7 +33,6 @@ I am a 4th-year Graduate Student at The Bauman Moscow State Technical University
 <a href="https://github.com/search?q=user%3ADronPascal+is%3Arepo+language%3Ac"><img alt="C" src="https://img.shields.io/badge/C%20-2370ED.svg?logo=c&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3ADronPascal+is%3Arepo+language%3Akotlin">
 <a href="https://github.com/search?q=user%3ADronPascal+is%3Arepo+language%3Akotlin">
-<a href="https://github.com/search?q=user%3ADronPascal+is%3Arepo+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
 </p>
 
 
@@ -46,6 +45,7 @@ I am a 4th-year Graduate Student at The Bauman Moscow State Technical University
 <p>
 <a href="#!"><img alt="Dagger 2" src="https://img.shields.io/badge/-Dagger 2-d157d6"></a>
 <a href="#!"><img alt="Hilt" src="https://img.shields.io/badge/-Hilt-d157d6"></a>
+<a href="#!"><img alt="Koin" src="https://img.shields.io/badge/-Koin-d157d6"></a>
 <a href="#!"><img alt="Kotlin Flow" src="https://img.shields.io/badge/-Kotlin Flow-5955ec"></a>
 <a href="#!"><img alt="Kotlin Coroutines" src="https://img.shields.io/badge/-Kotlin Coroutines-5955ec"></a>
 <a href="#!"><img alt="LiveData" src="https://img.shields.io/badge/-LiveData-9d56f7"></a>
@@ -64,9 +64,9 @@ I am a 4th-year Graduate Student at The Bauman Moscow State Technical University
 
 ### 🗄️ Databases
 <p>
-<a href="#!"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
 <a href="#!"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
 <a href="#!"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3ADronPascal+is%3Arepo+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
 </p>
 
 ### 💻 Software and tools
