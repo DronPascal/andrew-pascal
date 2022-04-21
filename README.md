@@ -108,6 +108,7 @@ I am a 4th-year Graduate Student at The Bauman Moscow State Technical University
 <summary>My Sertificates</summary>
 <p>
 <img src="https://user-images.githubusercontent.com/57148020/137030313-e7387255-31f3-4b7a-9c8c-92991d390b20.jpg">
+<img src="https://user-images.githubusercontent.com/57148020/164464621-422533b4-77d1-4f1d-b833-4fc55ad06f80.png">
 </p>
 </details>
 
