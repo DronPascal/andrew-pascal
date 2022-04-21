@@ -113,8 +113,8 @@ I am a 4th-year Graduate Student at The Bauman Moscow State Technical University
 </details>
 
 <p>
-<a href="#"><img alt="GitHub Views" src="https://komarev.com/ghpvc/?username=DronPascal&color=yellow"/></a>
-<a href="#"><img alt="GitHub Followers" title="Follow me on Github" src="https://img.shields.io/github/followers/DronPascal?color=blueviolet&logo=github&label=Followers"/></a>
+<a href="#"><img alt="GitHub Views" src="https://komarev.com/ghpvc/?username=DronPascal&color=yellow" height="192px"/></a>
+<a href="#"><img alt="GitHub Followers" title="Follow me on Github" src="https://img.shields.io/github/followers/DronPascal?color=blueviolet&logo=github&label=Followers" height="192px"/></a>
 </p>
 
 <br>
